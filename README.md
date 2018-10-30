@@ -1,0 +1,1 @@
+Este projeto tem como intuito assimilar conteúdo do Minicurso de Git que foi realizado durante a SECOMPP 2018.
